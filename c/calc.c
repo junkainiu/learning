@@ -5,7 +5,7 @@ int main()
    int a = 4;
    short b;
    double c;
-   int* ptr;
+   int *ptr;
 
    /* sizeof 运算符实例 */
    printf("Line 1 - 变量 a 的大小 = %lu\n", sizeof(a) );
